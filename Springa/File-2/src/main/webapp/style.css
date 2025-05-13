@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(3, 80, 80, 0.789);
+}
+
+.form{
+    background-color: aliceblue;
+    border-radius: 20px;
+    height: 25%;
+    width: 25%;
+    margin: auto;
+    margin-top: 20px;
+}
+.ask{
+    padding: 13px;
+}
+button{
+    padding: 11px;
+    border-radius: 900px;
+    border: 2px solid rgba(3, 80, 80, 0.789) ;
+}
+h2{
+    margin: 2px;
+}
+.type{
+    border-radius: 900px;
+    height: 30px;
+    width: 100%;
+    margin: auto;
+}
+
